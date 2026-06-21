@@ -2,9 +2,6 @@
 
 # Python-Global-Sales-EDA-Logistics-Analytics
 
-# 🌍 Order Out of Chaos
-
-Python: Global Sales EDA & Logistics Analytics
 
 ## I. Introduction
 
